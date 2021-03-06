@@ -5,15 +5,15 @@ and u'll continue talking to the support
 
 # If you really want more bots & checkers , u can star my BOT in github 
 
-# Check your google chrome version (google it or go here : chrome://help/)
+ Check your google chrome version (google it or go here : chrome://help/)
 
-# Download the right chromedriver depends on your google version 
+ Download the right chromedriver depends on your google version 
 
-# Put the chromedriver and the netflix bot script in the same folder to get started !
+ Put the chromedriver and the netflix bot script in the same folder to get started !
 
-# Enjoy ♥️ You can open multiples windows and talk to more than 5+ supports
+Enjoy You can open multiples windows and talk to more than 5+ supports
 
-# Share this script everywhere and HF GL
+Share this script everywhere and HF GL
 
 # How to use it in python ? 
                  pip install selenium
