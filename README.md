@@ -24,4 +24,7 @@ Share this script everywhere and HF GL
                  put it in the same folder as the exe file
                  Run it 
  
+ Previews : 
+ ![image](https://user-images.githubusercontent.com/61283384/110202432-daf32b00-7e68-11eb-80f6-4b006fbc03b0.png)
+
   
